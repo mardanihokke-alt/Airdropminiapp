@@ -1,0 +1,278 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@12.2.1
+2 info using node@v24.22.1
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm uninstall sqlite3
+7 verbose argv "uninstall" "sqlite3"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2026-10-25T19_32_16_187Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2026-10-25T19_32_16_187Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly packumentCache heap:1174405120 maxSize:293601280 maxEntrySize:146800640
+12 silly idealTree buildDeps
+13 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/@isaacs/fs-minipass' ]
+14 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/abbrev' ]
+15 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/base64-js' ]
+16 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/bindings' ]
+17 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/bl' ]
+18 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/buffer' ]
+19 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/chownr' ]
+20 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/decompress-response' ]
+21 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/deep-extend' ]
+22 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/detect-libc' ]
+23 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/end-of-stream' ]
+24 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/env-paths' ]
+25 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/expand-template' ]
+26 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/exponential-backoff' ]
+27 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/fdir' ]
+28 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/file-uri-to-path' ]
+29 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/fs-constants' ]
+30 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/github-from-package' ]
+31 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/graceful-fs' ]
+32 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/ieee754' ]
+33 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/ini' ]
+34 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/isexe' ]
+35 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/mimic-response' ]
+36 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/minimist' ]
+37 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/minipass' ]
+38 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/minizlib' ]
+39 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/mkdirp-classic' ]
+40 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/napi-build-utils' ]
+41 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/node-abi' ]
+42 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/node-addon-api' ]
+43 silly reify mark retired [
+43 silly reify   '/data/data/com.termux/files/home/node_modules/node-gyp',
+43 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/node-gyp'
+43 silly reify ]
+44 silly reify mark retired [
+44 silly reify   '/data/data/com.termux/files/home/node_modules/nopt',
+44 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/nopt'
+44 silly reify ]
+45 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/picomatch' ]
+46 silly reify mark retired [
+46 silly reify   '/data/data/com.termux/files/home/node_modules/prebuild-install',
+46 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/prebuild-install'
+46 silly reify ]
+47 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/proc-log' ]
+48 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/pump' ]
+49 silly reify mark retired [
+49 silly reify   '/data/data/com.termux/files/home/node_modules/rc',
+49 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/rc'
+49 silly reify ]
+50 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/readable-stream' ]
+51 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/safe-buffer' ]
+52 silly reify mark retired [
+52 silly reify   '/data/data/com.termux/files/home/node_modules/semver',
+52 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/semver'
+52 silly reify ]
+53 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/simple-concat' ]
+54 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/simple-get' ]
+55 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/sqlite3' ]
+56 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/string_decoder' ]
+57 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/strip-json-comments' ]
+58 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/tar' ]
+59 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/tar-fs' ]
+60 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/tar-stream' ]
+61 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/tinyglobby' ]
+62 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/tunnel-agent' ]
+63 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/undici' ]
+64 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/util-deprecate' ]
+65 silly reify mark retired [
+65 silly reify   '/data/data/com.termux/files/home/node_modules/which',
+65 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/node-which'
+65 silly reify ]
+66 silly reify mark retired [ '/data/data/com.termux/files/home/node_modules/yallist' ]
+67 silly reify moves {
+67 silly reify   '/data/data/com.termux/files/home/node_modules/@isaacs/fs-minipass': '/data/data/com.termux/files/home/node_modules/@isaacs/.fs-minipass-a4uUncJe',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/abbrev': '/data/data/com.termux/files/home/node_modules/.abbrev-aUjRol39',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/base64-js': '/data/data/com.termux/files/home/node_modules/.base64-js-GFQnGdZO',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/bindings': '/data/data/com.termux/files/home/node_modules/.bindings-VvPcGgVJ',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/bl': '/data/data/com.termux/files/home/node_modules/.bl-uQIHo8sb',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/buffer': '/data/data/com.termux/files/home/node_modules/.buffer-fGjWfg7c',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/chownr': '/data/data/com.termux/files/home/node_modules/.chownr-PihFeHtd',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/decompress-response': '/data/data/com.termux/files/home/node_modules/.decompress-response-1yMD0Yft',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/deep-extend': '/data/data/com.termux/files/home/node_modules/.deep-extend-9gsOTozv',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/detect-libc': '/data/data/com.termux/files/home/node_modules/.detect-libc-tOjK6eay',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/end-of-stream': '/data/data/com.termux/files/home/node_modules/.end-of-stream-oNXK5DT0',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/env-paths': '/data/data/com.termux/files/home/node_modules/.env-paths-P2LrxFmx',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/expand-template': '/data/data/com.termux/files/home/node_modules/.expand-template-S8OxXx73',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/exponential-backoff': '/data/data/com.termux/files/home/node_modules/.exponential-backoff-Y5Eu9yNl',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/fdir': '/data/data/com.termux/files/home/node_modules/.fdir-76akcb4U',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/file-uri-to-path': '/data/data/com.termux/files/home/node_modules/.file-uri-to-path-hGlGgAKu',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/fs-constants': '/data/data/com.termux/files/home/node_modules/.fs-constants-wkHbu8ZM',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/github-from-package': '/data/data/com.termux/files/home/node_modules/.github-from-package-lahurNDL',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/graceful-fs': '/data/data/com.termux/files/home/node_modules/.graceful-fs-g33HUP82',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/ieee754': '/data/data/com.termux/files/home/node_modules/.ieee754-nLDyTTcA',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/ini': '/data/data/com.termux/files/home/node_modules/.ini-kTtefLgp',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/isexe': '/data/data/com.termux/files/home/node_modules/.isexe-AyQz7VA0',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/mimic-response': '/data/data/com.termux/files/home/node_modules/.mimic-response-i9HNCpiU',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/minimist': '/data/data/com.termux/files/home/node_modules/.minimist-To6Tct78',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/minipass': '/data/data/com.termux/files/home/node_modules/.minipass-g9KBnft8',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/minizlib': '/data/data/com.termux/files/home/node_modules/.minizlib-VHjciLaa',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/mkdirp-classic': '/data/data/com.termux/files/home/node_modules/.mkdirp-classic-mrlqRREp',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/napi-build-utils': '/data/data/com.termux/files/home/node_modules/.napi-build-utils-n24phSsB',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/node-abi': '/data/data/com.termux/files/home/node_modules/.node-abi-AaX9MqyH',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/node-addon-api': '/data/data/com.termux/files/home/node_modules/.node-addon-api-BxXZlqYS',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/node-gyp': '/data/data/com.termux/files/home/node_modules/.node-gyp-xqV3iMKy',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/node-gyp': '/data/data/com.termux/files/home/node_modules/.bin/.node-gyp-JnO7Qnps',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/nopt': '/data/data/com.termux/files/home/node_modules/.nopt-zfjb6Vfl',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/nopt': '/data/data/com.termux/files/home/node_modules/.bin/.nopt-qOpnDk2U',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/picomatch': '/data/data/com.termux/files/home/node_modules/.picomatch-2yvLP97p',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/prebuild-install': '/data/data/com.termux/files/home/node_modules/.prebuild-install-ZLfTBwb3',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/prebuild-install': '/data/data/com.termux/files/home/node_modules/.bin/.prebuild-install-lHOtwOQZ',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/proc-log': '/data/data/com.termux/files/home/node_modules/.proc-log-47tYRCLY',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/pump': '/data/data/com.termux/files/home/node_modules/.pump-R6GjFmSn',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/rc': '/data/data/com.termux/files/home/node_modules/.rc-NIRF0yls',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/rc': '/data/data/com.termux/files/home/node_modules/.bin/.rc-BElzkfXt',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/readable-stream': '/data/data/com.termux/files/home/node_modules/.readable-stream-X9MXXje1',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/safe-buffer': '/data/data/com.termux/files/home/node_modules/.safe-buffer-9HH6LKLQ',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/semver': '/data/data/com.termux/files/home/node_modules/.semver-hizeRS0C',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/semver': '/data/data/com.termux/files/home/node_modules/.bin/.semver-hzBXa4pK',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/simple-concat': '/data/data/com.termux/files/home/node_modules/.simple-concat-kOa4y1Dj',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/simple-get': '/data/data/com.termux/files/home/node_modules/.simple-get-ZRaig60I',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/sqlite3': '/data/data/com.termux/files/home/node_modules/.sqlite3-ISy0VCWG',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/string_decoder': '/data/data/com.termux/files/home/node_modules/.string_decoder-ZF9Q6CPD',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/strip-json-comments': '/data/data/com.termux/files/home/node_modules/.strip-json-comments-cZrNWBLj',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/tar': '/data/data/com.termux/files/home/node_modules/.tar-qsOtX1RE',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/tar-fs': '/data/data/com.termux/files/home/node_modules/.tar-fs-9wQHUYn3',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/tar-stream': '/data/data/com.termux/files/home/node_modules/.tar-stream-kdGdtWl6',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/tinyglobby': '/data/data/com.termux/files/home/node_modules/.tinyglobby-dJJVXdas',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/tunnel-agent': '/data/data/com.termux/files/home/node_modules/.tunnel-agent-BGCw2PVB',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/undici': '/data/data/com.termux/files/home/node_modules/.undici-H7tWo5Nt',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/util-deprecate': '/data/data/com.termux/files/home/node_modules/.util-deprecate-t8kXv5bl',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/which': '/data/data/com.termux/files/home/node_modules/.which-ZaWMyj6n',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/.bin/node-which': '/data/data/com.termux/files/home/node_modules/.bin/.node-which-VvhfnbS9',
+67 silly reify   '/data/data/com.termux/files/home/node_modules/yallist': '/data/data/com.termux/files/home/node_modules/.yallist-w2K1fIIk'
+67 silly reify }
+68 silly audit bulk request {
+68 silly audit   accepts: [ '2.0.0' ],
+68 silly audit   'body-parser': [ '2.4.0' ],
+68 silly audit   bytes: [ '3.1.2' ],
+68 silly audit   'call-bind-apply-helpers': [ '1.0.2' ],
+68 silly audit   'call-bound': [ '1.0.4' ],
+68 silly audit   'content-disposition': [ '2.0.1' ],
+68 silly audit   'content-type': [ '2.1.0' ],
+68 silly audit   cookie: [ '0.7.2' ],
+68 silly audit   'cookie-signature': [ '1.2.2' ],
+68 silly audit   debug: [ '4.4.3' ],
+68 silly audit   depd: [ '2.0.0' ],
+68 silly audit   'dunder-proto': [ '1.0.1' ],
+68 silly audit   'ee-first': [ '1.1.1' ],
+68 silly audit   encodeurl: [ '2.0.0' ],
+68 silly audit   'es-define-property': [ '1.0.1' ],
+68 silly audit   'es-errors': [ '1.3.0' ],
+68 silly audit   'es-object-atoms': [ '1.1.2' ],
+68 silly audit   'escape-html': [ '1.0.3' ],
+68 silly audit   etag: [ '1.8.1' ],
+68 silly audit   express: [ '5.3.0' ],
+68 silly audit   finalhandler: [ '2.1.1' ],
+68 silly audit   forwarded: [ '0.2.0' ],
+68 silly audit   fresh: [ '2.0.0' ],
+68 silly audit   'function-bind': [ '1.1.2' ],
+68 silly audit   'get-intrinsic': [ '1.3.0' ],
+68 silly audit   'get-proto': [ '1.0.1' ],
+68 silly audit   gopd: [ '1.2.0' ],
+68 silly audit   'has-symbols': [ '1.1.0' ],
+68 silly audit   hasown: [ '2.0.4' ],
+68 silly audit   'http-errors': [ '2.0.1' ],
+68 silly audit   'iconv-lite': [ '0.7.3' ],
+68 silly audit   inherits: [ '2.0.4' ],
+68 silly audit   'ipaddr.js': [ '1.9.1' ],
+68 silly audit   'is-promise': [ '4.0.0' ],
+68 silly audit   'math-intrinsics': [ '1.1.0' ],
+68 silly audit   'media-typer': [ '1.1.1' ],
+68 silly audit   'merge-descriptors': [ '2.0.0' ],
+68 silly audit   'mime-db': [ '1.54.0' ],
+68 silly audit   'mime-types': [ '3.0.2' ],
+68 silly audit   ms: [ '2.1.3' ],
+68 silly audit   negotiator: [ '1.1.0' ],
+68 silly audit   'node-telegram-bot-api': [ '2.1.0' ],
+68 silly audit   'object-inspect': [ '1.13.4' ],
+68 silly audit   'on-finished': [ '2.4.2' ],
+68 silly audit   once: [ '1.4.0' ],
+68 silly audit   parseurl: [ '1.3.3' ],
+68 silly audit   'path-to-regexp': [ '8.4.2' ],
+68 silly audit   'proxy-addr': [ '2.0.8' ],
+68 silly audit   qs: [ '6.16.1' ],
+68 silly audit   'range-parser': [ '1.3.0' ],
+68 silly audit   'raw-body': [ '3.0.2' ],
+68 silly audit   router: [ '2.2.0' ],
+68 silly audit   'safer-buffer': [ '2.1.2' ],
+68 silly audit   send: [ '1.2.1' ],
+68 silly audit   'serve-static': [ '2.2.1' ],
+68 silly audit   setprototypeof: [ '1.2.0' ],
+68 silly audit   'side-channel': [ '1.1.1' ],
+68 silly audit   'side-channel-list': [ '1.0.1' ],
+68 silly audit   'side-channel-map': [ '1.0.1' ],
+68 silly audit   'side-channel-weakmap': [ '1.0.2' ],
+68 silly audit   statuses: [ '2.0.2' ],
+68 silly audit   toidentifier: [ '1.0.1' ],
+68 silly audit   'type-is': [ '2.1.0' ],
+68 silly audit   unpipe: [ '1.0.0' ],
+68 silly audit   vary: [ '1.1.2' ],
+68 silly audit   wrappy: [ '1.0.2' ]
+68 silly audit }
+69 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 477ms
+70 silly audit report {}
+71 silly REMOVE node_modules/yallist
+72 silly REMOVE node_modules/which
+73 silly REMOVE node_modules/util-deprecate
+74 silly REMOVE node_modules/undici
+75 silly REMOVE node_modules/tunnel-agent
+76 silly REMOVE node_modules/tinyglobby
+77 silly REMOVE node_modules/tar-stream
+78 silly REMOVE node_modules/tar-fs
+79 silly REMOVE node_modules/tar-fs/node_modules/chownr
+80 silly REMOVE node_modules/tar
+81 silly REMOVE node_modules/strip-json-comments
+82 silly REMOVE node_modules/string_decoder
+83 silly REMOVE node_modules/sqlite3
+84 silly REMOVE node_modules/simple-get
+85 silly REMOVE node_modules/simple-concat
+86 silly REMOVE node_modules/semver
+87 silly REMOVE node_modules/safe-buffer
+88 silly REMOVE node_modules/readable-stream
+89 silly REMOVE node_modules/rc
+90 silly REMOVE node_modules/pump
+91 silly REMOVE node_modules/proc-log
+92 silly REMOVE node_modules/prebuild-install
+93 silly REMOVE node_modules/picomatch
+94 silly REMOVE node_modules/nopt
+95 silly REMOVE node_modules/node-gyp
+96 silly REMOVE node_modules/node-addon-api
+97 silly REMOVE node_modules/node-abi
+98 silly REMOVE node_modules/napi-build-utils
+99 silly REMOVE node_modules/mkdirp-classic
+100 silly REMOVE node_modules/minizlib
+101 silly REMOVE node_modules/minipass
+102 silly REMOVE node_modules/minimist
+103 silly REMOVE node_modules/mimic-response
+104 silly REMOVE node_modules/isexe
+105 silly REMOVE node_modules/ini
+106 silly REMOVE node_modules/ieee754
+107 silly REMOVE node_modules/graceful-fs
+108 silly REMOVE node_modules/github-from-package
+109 silly REMOVE node_modules/fs-constants
+110 silly REMOVE node_modules/file-uri-to-path
+111 silly REMOVE node_modules/fdir
+112 silly REMOVE node_modules/exponential-backoff
+113 silly REMOVE node_modules/expand-template
+114 silly REMOVE node_modules/env-paths
+115 silly REMOVE node_modules/end-of-stream
+116 silly REMOVE node_modules/detect-libc
+117 silly REMOVE node_modules/deep-extend
+118 silly REMOVE node_modules/decompress-response
+119 silly REMOVE node_modules/chownr
+120 silly REMOVE node_modules/buffer
+121 silly REMOVE node_modules/bl
+122 silly REMOVE node_modules/bindings
+123 silly REMOVE node_modules/base64-js
+124 silly REMOVE node_modules/abbrev
+125 silly REMOVE node_modules/@isaacs/fs-minipass
+126 verbose cwd /data/data/com.termux/files/home
+127 verbose os Linux 4.14.186-perf-g0c6efddd96c7
+128 verbose node v24.22.1
+129 verbose npm  v12.2.1
+130 verbose exit 0
+131 info ok

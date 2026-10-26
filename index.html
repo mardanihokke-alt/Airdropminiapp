@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini App Reward</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>🎮 Mini App Dashboard</h1>
+
+    <div class="card profile-card">
+      <p>Selamat Datang, <b id="user-name">...</b></p>
+      <h3>Saldo: <span id="user-balance">0</span> Point</h3>
+    </div>
+
+    <h2>🔥 Daftar Game</h2>
+    <div id="games-list" class="games-list">
+      <p>Loading game...</p>
+    </div>
+
+    <h2>🏆 Leaderboard</h2>
+    <div id="leaderboard-list" class="leaderboard-list">
+      <p>Loading leaderboard...</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

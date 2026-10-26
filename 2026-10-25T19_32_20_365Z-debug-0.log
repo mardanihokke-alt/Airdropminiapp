@@ -1,0 +1,29 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@12.2.1
+2 info using node@v24.22.1
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm install sqlite3
+7 verbose argv "install" "sqlite3" "--build-from-source"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2026-10-25T19_32_20_365Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2026-10-25T19_32_20_365Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose stack Error: Unknown cli flag:
+11 verbose stack   - --build-from-source
+11 verbose stack Run `npm help config` for supported options.
+11 verbose stack     at Install.validateCli (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/base-cmd.js:427:29)
+11 verbose stack     at Npm.execCommandClass (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/npm.js:309:25)
+11 verbose stack     at async Npm.exec (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/npm.js:194:9)
+11 verbose stack     at async module.exports (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/cli/entry.js:67:5)
+12 error code EUNKNOWNCONFIG
+13 error Unknown cli flag:
+13 error   - --build-from-source
+13 error Run `npm help config` for supported options.
+14 verbose cwd /data/data/com.termux/files/home
+15 verbose os Linux 4.14.186-perf-g0c6efddd96c7
+16 verbose node v24.22.1
+17 verbose npm  v12.2.1
+18 verbose exit 1
+19 verbose code 1
+20 error A complete log of this run can be found in: /data/data/com.termux/files/home/.npm/_logs/2026-10-25T19_32_20_365Z-debug-0.log

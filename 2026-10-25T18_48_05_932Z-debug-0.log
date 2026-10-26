@@ -1,0 +1,39 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@12.2.1
+2 info using node@v24.22.1
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm install better-sqlite3
+7 verbose argv "install" "better-sqlite3"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2026-10-25T18_48_05_932Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2026-10-25T18_48_05_932Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly install-scripts no package.json at prefix Could not read package.json: Error: ENOENT: no such file or directory, open '/data/data/com.termux/files/home/package.json'
+12 silly packumentCache heap:1174405120 maxSize:293601280 maxEntrySize:146800640
+13 silly idealTree buildDeps
+14 silly fetch manifest better-sqlite3@*
+15 silly packumentCache full:https://registry.npmjs.org/better-sqlite3 cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/better-sqlite3 709ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/better-sqlite3 set size:undefined disposed:false
+18 silly placeDep ROOT better-sqlite3@13.0.3 OK for:  want: *
+19 silly fetch manifest node-addon-api@^8.0.0
+20 silly packumentCache full:https://registry.npmjs.org/node-addon-api cache-miss
+21 http fetch GET 200 https://registry.npmjs.org/node-addon-api 199ms (cache miss)
+22 silly packumentCache full:https://registry.npmjs.org/node-addon-api set size:undefined disposed:false
+23 silly placeDep ROOT node-addon-api@8.9.2 OK for: better-sqlite3@13.0.3 want: ^8.0.0
+24 silly reify moves {}
+25 http cache node-addon-api@https://registry.npmjs.org/node-addon-api/-/node-addon-api-8.9.2.tgz 1ms (cache hit)
+26 http cache better-sqlite3@https://registry.npmjs.org/better-sqlite3/-/better-sqlite3-13.0.3.tgz 0ms (cache hit)
+27 silly tarball no local data for node-addon-api@https://registry.npmjs.org/node-addon-api/-/node-addon-api-8.9.2.tgz. Extracting by manifest.
+28 silly tarball no local data for better-sqlite3@https://registry.npmjs.org/better-sqlite3/-/better-sqlite3-13.0.3.tgz. Extracting by manifest.
+29 http fetch GET 200 https://registry.npmjs.org/node-addon-api/-/node-addon-api-8.9.2.tgz 152ms (cache miss)
+30 http fetch GET 200 https://registry.npmjs.org/better-sqlite3/-/better-sqlite3-13.0.3.tgz 4857ms (cache miss)
+31 silly ADD node_modules/node-addon-api
+32 silly ADD node_modules/better-sqlite3
+33 verbose cwd /data/data/com.termux/files/home
+34 verbose os Linux 4.14.186-perf-g0c6efddd96c7
+35 verbose node v24.22.1
+36 verbose npm  v12.2.1
+37 verbose exit 0
+38 info ok
